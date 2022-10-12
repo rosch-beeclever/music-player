@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "e63f1666-50c6-4bba-88cb-9dd1da69d942": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"https:\/\/naturana.com\/collections\/bh-mit-funktion\">Solutions<\/a>"
+          }
+        },
+        "6e6aef8a-f116-449c-ac27-a2215ca2ee77": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": true
+          }
+        },
+        "c13ac872-c229-458d-9eb7-d97b1b79e054": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Kostenloser Versand ab 75€"
+          }
+        },
+        "547ecf86-828f-4f2e-ba13-3ec610455e4c": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Lieferzeit 1-3 Werktage"
+          }
+        },
+        "6851750c-a36b-438d-99b1-e81109f8dfa6": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "shield",
+            "text": "30 Tage Rückgaberecht"
+          }
+        },
+        "e19e8ca5-c4dc-4791-84b1-e1b0d5da1bad": {
+          "type": "custom",
+          "settings": {
+            "code": "<ul id=\"ul-brickfox\"><li class =\"li-brickfox\">Breite, weiche Träger<\/li><li class =\"li-brickfox\">Rückenverschluss mit 3x3 Häkchen<\/li><li class =\"li-brickfox\">Für mehr Stabilität: breites Unterbrustband<\/li><li class =\"li-brickfox\">Hoher Baumwollanteil<\/li><li class =\"li-brickfox\">Keine störenden Nähte im Cup<\/li><li class =\"li-brickfox\">Seitliche Bruststütze für optimalen Halt<\/li><\/ul>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "b73ebdb0-e067-46c4-871a-7002234f10ff": {
+          "type": "tab",
+          "settings": {
+            "title": "Materialhinweis",
+            "content": "<p>{{ product.metafields.custom.material_text.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "4ccbb912-636a-417b-bdde-1b5d6106287b": {
+          "type": "tab",
+          "settings": {
+            "title": "Pflegehinweis",
+            "content": "",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "e63f1666-50c6-4bba-88cb-9dd1da69d942",
+        "6e6aef8a-f116-449c-ac27-a2215ca2ee77",
+        "price",
+        "variant_picker",
+        "c13ac872-c229-458d-9eb7-d97b1b79e054",
+        "buy_buttons",
+        "sales_point",
+        "547ecf86-828f-4f2e-ba13-3ec610455e4c",
+        "6851750c-a36b-438d-99b1-e81109f8dfa6",
+        "e19e8ca5-c4dc-4791-84b1-e1b0d5da1bad",
+        "description",
+        "b73ebdb0-e067-46c4-871a-7002234f10ff",
+        "4ccbb912-636a-417b-bdde-1b5d6106287b",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": true,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "036c0dfc-03c7-47c1-ada8-c78c3f4e15e5": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "036c0dfc-03c7-47c1-ada8-c78c3f4e15e5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "About your brand",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About your brand",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About your brand",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "<p align=\"left\"><strong>Ähnliche Produkte<\/strong><\/p><p align=\"left\">Unsere Empfehlungen für dich<\/p>",
+        "related_count": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "166366887313dd1af2": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "bestseller-bh",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "background-image-text",
+    "text-and-image",
+    "text-and-image2",
+    "testimonials",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return",
+    "166366887313dd1af2"
+  ]
+}

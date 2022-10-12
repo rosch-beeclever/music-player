@@ -1,0 +1,588 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Super bequeme Bodywear",
+            "title": "Jeden Tag - The Power of Comfort!",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/neu",
+            "link_text": "JETZT SHOPPEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/Header-Slider_Neue-Kollektion_NATURANA_7658_201_44038_201_image01_AW22.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Header-Slider_Neue-Kollektion_NATURANA_7658_201_44038_201_image01_AW22.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "8171a71e-cef4-4bc4-9ddc-78e6f8fe91d3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Perfekt für den Sommer - Perfekt für untendrunter",
+            "title": "T-Shirt BHs",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/t-shirt-bh",
+            "link_text": "JETZT ENTDECKEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/NAT_2206_Kategorieteaser_Wednesday.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/NAT_2206_Kategorieteaser_Wednesday.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "80% 50%"
+          }
+        },
+        "9f163dc3-a2eb-4f8e-81d4-36dd34d9dae7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Genau deine Lösung!",
+            "title": "BHs mit Funktion",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/bh-mit-funktion",
+            "link_text": "JETZT SHOPPEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Header-Slider_BHs-m-Funktion_NATURANA_5232_201_image01_AW22.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Header-Slider_BHs-m-Funktion_NATURANA_5232_201_image01_AW22.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "start your week right",
+            "title": "The Monday",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/the-monday-unterwaesche",
+            "link_text": "Jetzt entdecken",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Header-Slider_Startseite_4658_201_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Header-Slider_Startseite_4658_201_1.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        },
+        "8752f940-4187-4510-9c5d-0f23f118f703": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Unsere super bequeme Loungewear",
+            "title": "So leicht & weich wie Wolken",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/loungewear-1",
+            "link_text": "Loungewear",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Header-Slider_Loungewear_NATURANA_5041_204_44030_407_42030_407_image01_AW22.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Header-Slider_Loungewear_NATURANA_5041_204_44030_407_42030_407_image01_AW22.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "8171a71e-cef4-4bc4-9ddc-78e6f8fe91d3",
+        "9f163dc3-a2eb-4f8e-81d4-36dd34d9dae7",
+        "slideshow-1",
+        "8752f940-4187-4510-9c5d-0f23f118f703"
+      ],
+      "settings": {
+        "section_height": "100vh",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16588248215f222dcf": {
+      "type": "featured-collections",
+      "blocks": {
+        "1658824821d6724459-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "neu",
+            "title": "Neuheiten",
+            "focal_point": "center center"
+          }
+        },
+        "1658824821d6724459-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "loungewear-1",
+            "title": "Loungewear",
+            "focal_point": "center center"
+          }
+        },
+        "4141e649-b32a-49d0-9750-3f1ce5670384": {
+          "type": "collection",
+          "settings": {
+            "collection": "loungewear-oberteile-produktreihe",
+            "title": "Loungewear Tops",
+            "focal_point": "center center"
+          }
+        },
+        "1658824821d6724459-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "the-monday",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1658824821d6724459-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "loungewear-shorts-unterteile-fur-produktreihe",
+            "title": "Loungewear Hosen",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1658824821d6724459-0",
+        "1658824821d6724459-1",
+        "4141e649-b32a-49d0-9750-3f1ce5670384",
+        "1658824821d6724459-2",
+        "1658824821d6724459-3"
+      ],
+      "settings": {
+        "title": "Loungewear für Free-Time & Me-Time",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "165882394731d1d417": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Neu eingetroffen",
+        "home_featured_products": "neu",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16636664989e6d3519": {
+      "type": "slideshow",
+      "blocks": {
+        "1663666498fd626377-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Sag \"JA\" zur bequemsten Bodywear...",
+            "title_size": 44,
+            "subheading": "",
+            "link": "",
+            "link_text": "Lieblings-BH entdecken",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#f0d688",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Kein_Titel_2048_x_389_px.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "1663666498fd626377-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1663666498fd626377-0",
+        "1663666498fd626377-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1663678142302b06e3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bestseller BHs",
+        "home_featured_products": "bestseller-bh",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16600453922072e757": {
+      "type": "slideshow",
+      "blocks": {
+        "16600453926c0ed468-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "TRAU DICH WAS!",
+            "title_size": 45,
+            "subheading": "Unsere neuen Grüntöne",
+            "link": "shopify:\/\/collections\/grun",
+            "link_text": "Jetzt entdecken",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Design_ohne_Titel_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16600453926c0ed468-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16588246050914b2f5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "grun",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "SOLUTION",
+            "heading": "BHs mit Effekt<br>",
+            "textarea": "",
+            "cta_text1": "entdecken",
+            "cta_link1": "shopify:\/\/collections\/bh-mit-funktion",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Header_NATURANA_5363_665_0063_665_image01_SS22.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 440,
+            "text_size": 70,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "#002a68",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Slips",
+            "heading": "Vervollständige deinen Style<br>",
+            "textarea": "",
+            "cta_text1": "JETZT SHOPPEN",
+            "cta_link1": "shopify:\/\/collections\/slip",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/4247_505_4246_256_B19_0031.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 65,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "#002a68",
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "166004502545fb704a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "home_featured_products": "sale",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1658832860140800ab": {
+      "type": "slideshow",
+      "blocks": {
+        "165883286031467bf7-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Das sagen unsere Kundinnen:",
+            "title_size": 45,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/bewertungen_kunden_reviews",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/naturana_blau.png",
+            "image_mobile": "shopify:\/\/shop_images\/naturana_blau.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "165883286031467bf7-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16565847522ed7757f": {
+      "type": "apps",
+      "blocks": {
+        "eddff418-1e7b-4607-9fa1-129fd1928ca9": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1920
+          }
+        }
+      },
+      "block_order": [
+        "eddff418-1e7b-4607-9fa1-129fd1928ca9"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "165884423031e692a7": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=92pXV9eA0u0",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "300px"
+      }
+    },
+    "165658398632987cee": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "1656583986b3fe3d7a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bademode",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1656583986b3fe3d7a-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-one-neu",
+            "title": "THE ONE",
+            "focal_point": "center center"
+          }
+        },
+        "1656583986b3fe3d7a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "island-summer-neu",
+            "title": "ISLAND SUMMER",
+            "focal_point": "center center"
+          }
+        },
+        "1656583986b3fe3d7a-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-extraordinary-neu",
+            "title": "EXTRAORDINARY",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1656583986b3fe3d7a-0",
+        "1656583986b3fe3d7a-1",
+        "1656583986b3fe3d7a-2",
+        "1656583986b3fe3d7a-3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "1658844451e07ff9d1": {
+      "type": "apps",
+      "blocks": {
+        "dc2e8016-7ead-4ade-a22f-8d1dc8d708ca": {
+          "type": "shopify:\/\/apps\/covet-pics-instagram-feed\/blocks\/app-block-standard\/577480e8-b5be-4890-968c-06ccfb458c74",
+          "settings": {
+            "gallery_embed_id": 4,
+            "show_text": true,
+            "title_text": "Follow us on Instagram #mynaturana",
+            "title_color": "#000000",
+            "title_size": 25,
+            "subtitle_text": "",
+            "subtitle_color": "#000000",
+            "subtitle_size": 14,
+            "text_alignment": "center",
+            "margin": 20,
+            "custom_html_above": "<div class=\"covet-pics-gallery\" data-id=\"110358\"><\/div>",
+            "custom_html_below": ""
+          }
+        }
+      },
+      "block_order": [
+        "dc2e8016-7ead-4ade-a22f-8d1dc8d708ca"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1658844683fcd8c093": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1658844683c726725f-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Nachhaltigkeit",
+            "title": "unsere Pakete sind \naus 70% Gras hergestellt",
+            "title_size": 50,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/nachhaltig-gut",
+            "link_text": "Mehr erfahren",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#002a68",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/lila.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/lila_7139c051-ee08-43b9-a941-19d6d7a6f4c8.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1658844683c726725f-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1663659338658f6e6f": {
+      "type": "map",
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "",
+        "map_address": "",
+        "api_key": "AIzaSyDwj711eQYlGnK8Z-SY9MrUknYBILhyzY8",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "16588248215f222dcf",
+    "165882394731d1d417",
+    "16636664989e6d3519",
+    "1663678142302b06e3",
+    "16600453922072e757",
+    "16588246050914b2f5",
+    "promo-grid",
+    "166004502545fb704a",
+    "1658832860140800ab",
+    "16565847522ed7757f",
+    "165884423031e692a7",
+    "165658398632987cee",
+    "1658844451e07ff9d1",
+    "1658844683fcd8c093",
+    "1663659338658f6e6f"
+  ]
+}
